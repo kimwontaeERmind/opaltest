@@ -9,6 +9,6 @@ bob={
     },
     "urls" : [
         "www.google.com",     
-        "chat.openai.com"
+        "ai.chat.openai.com"
     ]
 }
