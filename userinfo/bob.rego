@@ -8,6 +8,7 @@ bob={
         "acl" : "OFF"
     },
     "urls" : [
+        "www.google"
         "www.google.com",     
         "ai.chat.openai.com"
     ]
