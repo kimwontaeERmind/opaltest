@@ -4,7 +4,7 @@ alice={
     "org" : "rnd",
     "policy": {
         "key": "ON",  
-        "acl" : "ON"
+        "acl" : "OFF"
     },
     "urls" : [
         "www.google.com",
