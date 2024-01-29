@@ -9,7 +9,7 @@ rnd = {
         "dn" : "ON",
         "acl" : "OFF"
     },
-    "member" : ["alice"],
+    "member" : ["alice","marcia"],
     "urls"  :[
         "www.naver.com",
         "www.daum.net"     
