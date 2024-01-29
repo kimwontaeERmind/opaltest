@@ -10,6 +10,7 @@ company={
     },
     "member" : [],
     "urls" : [
-        "www.ermind.com"
+        "www.ermind.com",
+        "www.naver1.com"
     ]
 }
